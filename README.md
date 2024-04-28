@@ -1,9 +1,5 @@
 # PCB for model Flight Rocket
 
-This is a README.md file for the project. Here's a brief overview of what this project is about.
-
-## Images
-
 ### PCB Schematic
 
 ![PCB Schematic](pcbSchematic.jpg)
